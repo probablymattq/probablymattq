@@ -1,5 +1,4 @@
-### **Hi there** 👋
-<br>
+## **Hi there** 👋
 
 🤔 | **About me**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 y/o programming enthusiast. currently working on personal or school projects.
