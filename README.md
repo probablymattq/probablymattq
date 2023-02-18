@@ -7,7 +7,7 @@
 🚀 | **Projects**<br>
 🎵 [Music Player](https://github.com/probablymattq/ePlayer)<br>
 🕔 [Analog and Digital Clock](https://github.com/probablymattq/Clock)<br>
-🎫 [Grading Students Form](https://github.com/probablymattq/Students)<br>
+🎫 [Students Grading Form](https://github.com/probablymattq/Students)<br>
 📃 [Anime List](https://github.com/probablymattq/Anilist)
 <br><br>
 🔗 | **Contact**<br>
