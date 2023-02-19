@@ -1,7 +1,7 @@
 ## **Hi there** 👋
 
 🤔 | **About me**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 y/o programming enthusiast. currently working on personal or school projects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 y/o programming enthusiast. currently working on personal and school projects.
 <br><br>
 🚀 | **Projects**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎵 [Music Player](https://github.com/probablymattq/ePlayer)<br>
