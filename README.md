@@ -4,6 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 y/o programming enthusiast. currently working on personal and school projects.
 <br><br>
 🚀 | **Projects**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⏲ [Stopwatch Timer](https://github.com/probablymattq/StopwatchTimer)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎵 [Music Player](https://github.com/probablymattq/ePlayer)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🕔 [Analog and Digital Clock](https://github.com/probablymattq/Clock)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎫 [Students Grading Form](https://github.com/probablymattq/Students)<br>
