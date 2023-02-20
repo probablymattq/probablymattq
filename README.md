@@ -4,8 +4,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 y/o programming enthusiast. currently working on personal and school projects.
 <br><br>
 🌟 | **Hobbies**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video games
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 Music
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video games<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 Music<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 Photography
 <br><br>
 🚀 | **Projects**<br>
