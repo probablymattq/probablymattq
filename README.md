@@ -1,7 +1,7 @@
 ## **Hi there** 👋
 
 🤔 | **About me**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19 y/o programming enthusiast. currently working on personal and school projects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 y/o programming enthusiast. currently working on personal and school projects.
 <br><br>
 🌟 | **Hobbies**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video games<br>
