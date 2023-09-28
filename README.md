@@ -1,14 +1,16 @@
 ## **Hi there** 👋
 
 🤔 | **About me**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 y/o programming enthusiast. currently working on personal and school projects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20 y/o programming enthusiast. fulltime employee at TechTitans.md<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[work account](https://github.com/mvtter)
 <br><br>
 🌟 | **Hobbies**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎮 Video games<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 Music<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 Photography
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 Photography<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📺 Anime<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎶 Music
 <br><br>
-🚀 | **Projects**<br>
+🚀 | **Projects (old)**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📺 [Television Packages](https://github.com/probablymattq/TelevisionPackages)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⏲ [Stopwatch Timer](https://github.com/probablymattq/StopwatchTimer)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎵 [Music Player](https://github.com/probablymattq/ePlayer)<br>
